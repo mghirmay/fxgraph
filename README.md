@@ -27,7 +27,7 @@ You can get it from maven central
 ``` 
 
 ## Usage
-You can look at the [test classes](src/test/java/com/fxgraph) for basic examples. The relevant code for the graph in the screenshot above is as follows
+You can look at the [test classes](src/test/java/de/sinitpower/fxgraph) for basic examples. The relevant code for the graph in the screenshot above is as follows
 ```java
 Graph graph = new Graph();
 final Model model = graph.getModel();
